@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Mounir Melzi</h1>
 <h3 align="center">CS Student 💻 at Higher School for Computer Science (École nationale supérieure d'informatique) ESI ex.INI</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mounirmelzi&label=Profile%20views&color=0e75b6&style=flat" alt="mounirmelzi" /> </p>
+
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning mobile development and artificial intelligence
 - 💬 Ask me about web, mobile and desktop development
