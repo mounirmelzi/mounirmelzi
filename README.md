@@ -7,7 +7,7 @@
 - 📫 How to reach me lm_melzi@esi.dz
 
 <!-- profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mounirmelzi&label=profile%20views&color=0e75b6&style=flat" alt="mounirmelzi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mounirmelzi&label=profile%20views&color=0e75b6&style=flat" alt="mounirmelzi" /> </p>
 
 <!-- github stats -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mounirmelzi&theme=dark&background=1%2C150422%2C2F0334&fire=D500EB&ring=AE0AA9&currStreakLabel=FF89D0" alt="mounirmelzi"/></p>
